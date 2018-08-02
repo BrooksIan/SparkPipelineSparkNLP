@@ -11,7 +11,7 @@ Build &amp; Convert a Spark NLP Pipeline to PMML
 
 **Author** Ian Brooks \
 **Follow** [LinkedIn - Ian Brooks PhD] (https://www.linkedin.com/in/ianrbrooksphd/) \
-**HCC Article**: [Link] (https://community.hortonworks.com/articles/192368/spark-core-nlp-in-apache-zeppelin.html) 
+**HCC Article**: [Link] (https://community.hortonworks.com/articles/208569/build-and-convert-a-spark-nlp-pipeline-into-pmml-i.html) 
 
 Instructions:
 1. Please follow this [tutorial](https://community.hortonworks.com/articles/1282/sample-hdfnifi-flow-to-push-tweets-into-solrbanana.html) to build the Solr collection 'tweets'
