@@ -24,3 +24,4 @@ Instructions:
 
 5. In the Stanford Core NLP download found here http://nlp.stanford.edu/software/stanford-corenlp-full-2018-02-27.zip, find the stanford-corelop-*-models.jar and copy it to the /tmp directory. In Zeppelin's Interpreters configurations for Spark, include the following artifact: /tmp/stanford-corenlp-full-2018-02-27/stanford-corenlp-3.9.1-models.jar	
 
+6. Review the libraries JPMML-Spark ML and JPMML-Model library found here https://github.com/jpmml/jpmml-sparkml and https://github.com/jpmml/jpmml-model
